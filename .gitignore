@@ -1,0 +1,24 @@
+# Dependencias y builds
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Caché de descargas de medios y archivos temporales
+.cache/
+test-results/
+playwright-report/
+
+# Variables de entorno: NUNCA versionar credenciales
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Supabase local
+supabase/.temp/
+supabase/.branches/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+*.log

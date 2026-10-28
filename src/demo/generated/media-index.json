@@ -1,0 +1,602 @@
+{
+  "images": {
+    "hero": {
+      "width": 1800,
+      "height": 1200,
+      "variants": {
+        "480": "/demo/moka-studio/img/hero-480.webp",
+        "960": "/demo/moka-studio/img/hero-960.webp",
+        "1600": "/demo/moka-studio/img/hero-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAwCdASoUAA0APu1iqk4ppaQiMAgBMB2JYwDGfBBmMlE/c5Z77gAA/ryJ3mfc9XEaDSR5wyKv7PCqMS1IsyKkGp1nXgfLye8at1+NzSBU0DN2M+OclQAA",
+      "source": "https://images.unsplash.com/photo-1442512595331-e89e73853f31",
+      "license": "Unsplash License"
+    },
+    "cat-cafe": {
+      "width": 1800,
+      "height": 1200,
+      "variants": {
+        "480": "/demo/moka-studio/img/cat-cafe-480.webp",
+        "960": "/demo/moka-studio/img/cat-cafe-960.webp",
+        "1600": "/demo/moka-studio/img/cat-cafe-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAwCdASoUAA0APu1kq04ppaQiMAgBMB2JZQCdACHvZjWIj584OYRAAP7pNVLWsKpKh7G7Jay17a+FysH++p1nn1L6od+G7LAAAA==",
+      "source": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf",
+      "license": "Unsplash License"
+    },
+    "cat-pasteleria": {
+      "width": 1800,
+      "height": 1340,
+      "variants": {
+        "480": "/demo/moka-studio/img/cat-pasteleria-480.webp",
+        "960": "/demo/moka-studio/img/cat-pasteleria-960.webp",
+        "1600": "/demo/moka-studio/img/cat-pasteleria-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwBACdASoUAA8APu1iqU2ppaQiMAgBMB2JaACdMoADNZp1kzzIwTda6eAA/uNDl0hBlR/suILm/ZeCqd9Y9S/pIlS9WM/k7BN1sIJYV9Iiq4SMK1qJfjuSzMw5PSoOs8eQGtIDLXbjgAAA",
+      "source": "https://images.unsplash.com/photo-1517433670267-08bbd4be890f",
+      "license": "Unsplash License"
+    },
+    "cat-brunch": {
+      "width": 1800,
+      "height": 1200,
+      "variants": {
+        "480": "/demo/moka-studio/img/cat-brunch-480.webp",
+        "960": "/demo/moka-studio/img/cat-brunch-960.webp",
+        "1600": "/demo/moka-studio/img/cat-brunch-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAwCdASoUAA0APu1iqU2ppaQiMAgBMB2JZACdMoR3Ff/gEU4o/k+QAM4pEwWyrNEmuaeCWKvtMFR4+B55tCGPfnhLpbtfDkBe+Unk4KxakrudYQfBk7PNjG5gvWg4c3CJNf/w7k0fu4nyAAA=",
+      "source": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0",
+      "license": "Unsplash License"
+    },
+    "espresso": {
+      "width": 1800,
+      "height": 1029,
+      "variants": {
+        "480": "/demo/moka-studio/img/espresso-480.webp",
+        "960": "/demo/moka-studio/img/espresso-960.webp",
+        "1600": "/demo/moka-studio/img/espresso-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAwCdASoUAAsAPu1iqk2ppaQiMAgBMB2JaQAAYf/hr68MyT6AAAD+4YPNTA7W5VS0LXcDS8xWjzScH3t7cCnUToUAAA==",
+      "source": "https://images.unsplash.com/photo-1610889556528-9a770e32642f",
+      "license": "Unsplash License"
+    },
+    "espresso-2": {
+      "width": 1800,
+      "height": 1200,
+      "variants": {
+        "480": "/demo/moka-studio/img/espresso-2-480.webp",
+        "960": "/demo/moka-studio/img/espresso-2-960.webp",
+        "1600": "/demo/moka-studio/img/espresso-2-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACwAwCdASoUAA0APu1iqk2ppaQiMAgBMB2JZQAAUqpGXHnH4OvIAAD+40titx1RSj3mhw7FZUgAKAuo/ckfDT2yH97qHI8rllf3VkET7c4AAA==",
+      "source": "https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04",
+      "license": "Unsplash License"
+    },
+    "espresso-3": {
+      "width": 1800,
+      "height": 2700,
+      "variants": {
+        "480": "/demo/moka-studio/img/espresso-3-480.webp",
+        "960": "/demo/moka-studio/img/espresso-3-960.webp",
+        "1600": "/demo/moka-studio/img/espresso-3-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwBQCdASoUAB4APuVgpk2pJaOiMAwBIByJYwC2yBrc68t07wu8uxA0mdZGzgA9tg64AAD8U+pC22QWLtN2LUKjtfP4skhhcvdGQknEsLMyzSPtaeblMJpXE8Z0xeyq2YDS2HoVKQvSXjj6m1TV+sYL/XTAntpVHAA=",
+      "source": "https://images.unsplash.com/photo-1511920170033-f8396924c348",
+      "license": "Unsplash License"
+    },
+    "cortado": {
+      "width": 1800,
+      "height": 2250,
+      "variants": {
+        "480": "/demo/moka-studio/img/cortado-480.webp",
+        "960": "/demo/moka-studio/img/cortado-960.webp",
+        "1600": "/demo/moka-studio/img/cortado-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBQCdASoUABkAPt1apE2opSOiN/qoARAbiWUArWgh4A1avhMqQq157FVrg3a8etQAAP7DUegLC8bFinPnMkzxT781y7nZ131z9Wu+/wtS5/H9RWw7aMuVLNujeGUDEMaH0eWyUMEZOwAA",
+      "source": "https://images.unsplash.com/photo-1559496417-e7f25cb247f3",
+      "license": "Unsplash License"
+    },
+    "cappuccino": {
+      "width": 1800,
+      "height": 1646,
+      "variants": {
+        "480": "/demo/moka-studio/img/cappuccino-480.webp",
+        "960": "/demo/moka-studio/img/cappuccino-960.webp",
+        "1600": "/demo/moka-studio/img/cappuccino-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAADwBACdASoUABIAPu1krE6ppaQiKA1RMB2JYgC06A02iXwSVV93db764cxkVW0MBAAA/u9ImpeK5J3psYYB8myd3tXa9pFNIfCN/E0Ubtw6bItx/BMJNUJrNSRlCIT2vx9l9V5fQvJc6U9+1I0nRWjFBpgFjWR7VwAAAA==",
+      "source": "https://images.unsplash.com/photo-1572442388796-11668a67e53d",
+      "license": "Unsplash License"
+    },
+    "cappuccino-2": {
+      "width": 1800,
+      "height": 2700,
+      "variants": {
+        "480": "/demo/moka-studio/img/cappuccino-2-480.webp",
+        "960": "/demo/moka-studio/img/cappuccino-2-960.webp",
+        "1600": "/demo/moka-studio/img/cappuccino-2-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAAAwBQCdASoUAB4APu1mqU4ppaOiMAgBMB2JQBOgA4V/Ldo9FXnZpYU08nWNpG4v4vQYQAD7x73eNk8q5yH9Uu/JoPioGF4gX5lgUoD8UEnRrN++HpBa3c4ZCAMUeCZgr1tDk5K1Uww7dXxVHsCQic4VYi09VTw4AaUhOdy2UN9jv7ejaXz2KSD2OiUJzvgchV60Z/RHirgP7WOKnE73MydlgAA=",
+      "source": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+      "license": "Unsplash License"
+    },
+    "flat-white": {
+      "width": 1800,
+      "height": 1007,
+      "variants": {
+        "480": "/demo/moka-studio/img/flat-white-480.webp",
+        "960": "/demo/moka-studio/img/flat-white-960.webp",
+        "1600": "/demo/moka-studio/img/flat-white-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAABwAwCdASoUAAsAPu1iqU2ppaQiMAgBMB2JZACsAAv8qCsCs+AA+p/h93XydWqbSqtiG9C6g8HE+7BZita2xMvpAgVv5L73rOyQopZJZhEtgAAA",
+      "source": "https://images.unsplash.com/photo-1541167760496-1628856ab772",
+      "license": "Unsplash License"
+    },
+    "latte": {
+      "width": 1800,
+      "height": 2400,
+      "variants": {
+        "480": "/demo/moka-studio/img/latte-480.webp",
+        "960": "/demo/moka-studio/img/latte-960.webp",
+        "1600": "/demo/moka-studio/img/latte-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAADQBQCdASoUABsAPu1ip04ppSMiMBgMATAdiWYAsOwRDxJs5K0yl7+kvUMMM4XbiEJP0e8/71wAAP7pOi52d1qvRPWdDbjSoqWCtdDFpPZpe2HyGcY99BLN75P9M7pIySlngyoLKCglV5bEsTtUR0hSBEZbCdNgykR9DjV9cfxaAbB7E6uQj7iavzeAAA==",
+      "source": "https://images.unsplash.com/photo-1570968915860-54d5c301fa9f",
+      "license": "Unsplash License"
+    },
+    "filtrado": {
+      "width": 1800,
+      "height": 2700,
+      "variants": {
+        "480": "/demo/moka-studio/img/filtrado-480.webp",
+        "960": "/demo/moka-studio/img/filtrado-960.webp",
+        "1600": "/demo/moka-studio/img/filtrado-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADwBACdASoUAB4APu1kqU2ppaQiMAgBMB2JQAXf+AxMVKolyW3sBO0JalWtGmSkJcAAyqjnPSWTu1/gjIvcwyXqfzJYlP+DQJ8dL+DLUML6cgDv2UA9IhMpBJh1WSsyDviiljrelripH/Qh4fYqGkHB4aKwhDhJgsMgvjOIvrO9gAAA",
+      "source": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd",
+      "license": "Unsplash License"
+    },
+    "chocolate-caliente": {
+      "width": 1800,
+      "height": 2700,
+      "variants": {
+        "480": "/demo/moka-studio/img/chocolate-caliente-480.webp",
+        "960": "/demo/moka-studio/img/chocolate-caliente-960.webp",
+        "1600": "/demo/moka-studio/img/chocolate-caliente-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBQCdASoUAB4APuFeqk2opSQiMAwBEBwJQBibBCuka3hZYT7p3IeBB9ePTCRCTYwZgADMgslQOnSxFjokUe3AOoIHUKrBIFVcdPCoeqwxIbgC4jbdr6pmlPJ3/iZ2ROeZ1AqjscSHA1foCJT+MY43G+cTqeRk+BcpxYpPcnWW0e0l/D1ICxzrGR2pNbhKkPCAAA==",
+      "source": "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed",
+      "license": "Unsplash License"
+    },
+    "matcha": {
+      "width": 1800,
+      "height": 1200,
+      "variants": {
+        "480": "/demo/moka-studio/img/matcha-480.webp",
+        "960": "/demo/moka-studio/img/matcha-960.webp",
+        "1600": "/demo/moka-studio/img/matcha-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwBACdASoUAA0APu1iqU2ppaOiMAgBMB2JZgCdACLHucoxo1vsChzxV4gA/uosRJ+9373wCb6ra2ciBk6HSAC253bSfDqNdaTbCX7aIdFkL8TEGdCmG8mNucfAAA==",
+      "source": "https://images.unsplash.com/photo-1515823064-d6e0c04616a7",
+      "license": "Unsplash License"
+    },
+    "te-hebras": {
+      "width": 1800,
+      "height": 2700,
+      "variants": {
+        "480": "/demo/moka-studio/img/te-hebras-480.webp",
+        "960": "/demo/moka-studio/img/te-hebras-960.webp",
+        "1600": "/demo/moka-studio/img/te-hebras-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBQCdASoUAB4APu1kq04ppaQiKA1RMB2JQBOmYwDZXP1EDDEj9apem44mlvH0RIkAAP7TFCo95+2uIVW37d+2+yGqjMeA88rQ9sXAYEU1T1cerUyLqb43bB19sjNYcncijwnTNH1gAJ5tbK1BNWvKsSi6IjpGCvx73glBj1ka2GdjsOQSqwEkEhEgmuUAAAA=",
+      "source": "https://images.unsplash.com/photo-1594631252845-29fc4cc8cde9",
+      "license": "Unsplash License"
+    },
+    "te-cookies": {
+      "width": 1800,
+      "height": 2484,
+      "variants": {
+        "480": "/demo/moka-studio/img/te-cookies-480.webp",
+        "960": "/demo/moka-studio/img/te-cookies-960.webp",
+        "1600": "/demo/moka-studio/img/te-cookies-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwBACdASoUABwAPtVWoU2oJKMiN+gBABqJYwAAiOJyL1jTmNDVo8z/VN0oCtkAAP7xxd5y5pOUd+Zf4fWPM6SGZg7XV/fhDrovp2lSKJhju0LW7bZ+uqSiAwcAAA==",
+      "source": "https://images.unsplash.com/photo-1544787219-7f47ccb76574",
+      "license": "Unsplash License"
+    },
+    "iced-latte": {
+      "width": 1800,
+      "height": 2700,
+      "variants": {
+        "480": "/demo/moka-studio/img/iced-latte-480.webp",
+        "960": "/demo/moka-studio/img/iced-latte-960.webp",
+        "1600": "/demo/moka-studio/img/iced-latte-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAADQBQCdASoUAB4APu1cqE2ppKOiN/VYATAdiWMAts2zQKgECLbmLjYAFOJLcH/Pt1smhTGHoEgAAP38l0UpGnZgR7xfjrCmdHbSMk0CxOvGg/otNX1adVggaa7+K9cgNH+1i2/24BRHoyBiE/UGp+Ji1nFg1sCkQC9goHy61hQo52SRNADlQCT13u3w0OZhgAA=",
+      "source": "https://images.unsplash.com/photo-1517701604599-bb29b565090c",
+      "license": "Unsplash License"
+    },
+    "iced-latte-2": {
+      "width": 1800,
+      "height": 2700,
+      "variants": {
+        "480": "/demo/moka-studio/img/iced-latte-2-480.webp",
+        "960": "/demo/moka-studio/img/iced-latte-2-960.webp",
+        "1600": "/demo/moka-studio/img/iced-latte-2-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAACQBQCdASoUAB4APu1ep06ppKMiMBgMATAdiUAXZC2gMy/m6YRHMcGN0iLCKS/aUHA+plbz8AD+SfQwYxaFqVxN8lNM5vCh7B1sokn/FE/nw9pZy0dNmGWnrrLT8xhcTUn/0mnBhnBwkQbmzzJP8jrrZeEyIImjlJHtWl6XEbuBRXQ/cbc7J5sAAAA=",
+      "source": "https://images.unsplash.com/photo-1514066558159-fc8c737ef259",
+      "license": "Unsplash License"
+    },
+    "cold-brew": {
+      "width": 1800,
+      "height": 1202,
+      "variants": {
+        "480": "/demo/moka-studio/img/cold-brew-480.webp",
+        "960": "/demo/moka-studio/img/cold-brew-960.webp",
+        "1600": "/demo/moka-studio/img/cold-brew-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQAwCdASoUAA0APu1iqU2ppaOiMAgBMB2JQBOgAvcxv3jvanD84eAA/hccPjSQXSTsiap2BFjXDOU+nrJgQwf44uGMHA7JFI8pdY9jb6naghgCHVT+71XjrCgePmUYQgAAAA==",
+      "source": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735",
+      "license": "Unsplash License"
+    },
+    "frappe": {
+      "width": 1800,
+      "height": 3201,
+      "variants": {
+        "480": "/demo/moka-studio/img/frappe-480.webp",
+        "960": "/demo/moka-studio/img/frappe-960.webp",
+        "1600": "/demo/moka-studio/img/frappe-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABwBgCdASoUACQAPu1qsFIppaSiqrgIATAdiWIAyNQjYDBv9/HnRabK92IX5U4/LSGBi4xRM7SYI8/skygA/t8HisstV02oUtZXyMYWn7as7RBs5/+C4xbcrJl4x/L5/jhAH5gXe1eWFN78guW4kk8Y/EJ9YoQgJik4PifBinloQQEzhpq1xTCdjEuuTstXR0Cjoyp2nsjHhagb+yRu4yh521NLdgXU5GtDMJwx1PEer79RUAHxbwAA",
+      "source": "https://images.unsplash.com/photo-1563805042-7684c019e1cb",
+      "license": "Unsplash License"
+    },
+    "limonada": {
+      "width": 1800,
+      "height": 2700,
+      "variants": {
+        "480": "/demo/moka-studio/img/limonada-480.webp",
+        "960": "/demo/moka-studio/img/limonada-960.webp",
+        "1600": "/demo/moka-studio/img/limonada-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABQBACdASoUAB4APu1kp02ppaMiMBgMATAdiWYAvkg0b3yRlqDkPfzv6CwAAP7x0wtHCvUxgm6GX3MutPRioiww2r4tJgfIgTUf2l0d0QM4VpQqc1ydQyMznN0H8qhZe4+Qg/RviAy1YuHIZMOtNJxT+oqAAA==",
+      "source": "https://images.unsplash.com/photo-1621263764928-df1444c5e859",
+      "license": "Unsplash License"
+    },
+    "jugo-naranja": {
+      "width": 1800,
+      "height": 2700,
+      "variants": {
+        "480": "/demo/moka-studio/img/jugo-naranja-480.webp",
+        "960": "/demo/moka-studio/img/jugo-naranja-960.webp",
+        "1600": "/demo/moka-studio/img/jugo-naranja-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAABQBQCdASoUAB4APu1gp02ppSOiMAgBMB2JaAC/ayGC/MeAXKe5PKR6olh0xPoximohLpAA/u6hUohPcomKkEtU+iOgGiNeLN/BEeB2/gZjMxlLL0VGwoFURgNQXhsESsbYu1VY/cnVtZh7/KFf+JTZOTJpa4OyvjsyFia5gFjFJ8hsUQkBldj5ueDLHtkfcR8d4yQyNVesvn+AAAA=",
+      "source": "https://images.unsplash.com/photo-1600271886742-f049cd451bba",
+      "license": "Unsplash License"
+    },
+    "te-frio": {
+      "width": 1800,
+      "height": 2250,
+      "variants": {
+        "480": "/demo/moka-studio/img/te-frio-480.webp",
+        "960": "/demo/moka-studio/img/te-frio-960.webp",
+        "1600": "/demo/moka-studio/img/te-frio-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABwBACdASoUABkAPuFaqE2opSQiMAwBEBwJQBj8hDwBa8A6mprjrzeMqwjJAAD+9WeYMfzkGl7mheRztqdHSYX1iACBRfLUPmt94bjvwP8GpPwX4AyP2yqKIa7buncRSJ/1EgSLjXWRmAAA",
+      "source": "https://images.unsplash.com/photo-1556679343-c7306c1976bc",
+      "license": "Unsplash License"
+    },
+    "croissant": {
+      "width": 1800,
+      "height": 1440,
+      "variants": {
+        "480": "/demo/moka-studio/img/croissant-480.webp",
+        "960": "/demo/moka-studio/img/croissant-960.webp",
+        "1600": "/demo/moka-studio/img/croissant-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAwCdASoUABAAPu1mq04ppaQiMAgBMB2JQAagABmdVpX7HCDTXF6AAP7uoZatDlKjIzEYbXlWG5TCVlB+sJu5Is8nSdrSVJnBE0gKy7sWNyqOfou8vbGFBjq3ggvAAAA=",
+      "source": "https://images.unsplash.com/photo-1555507036-ab1f4038808a",
+      "license": "Unsplash License"
+    },
+    "medialunas": {
+      "width": 1800,
+      "height": 2400,
+      "variants": {
+        "480": "/demo/moka-studio/img/medialunas-480.webp",
+        "960": "/demo/moka-studio/img/medialunas-960.webp",
+        "1600": "/demo/moka-studio/img/medialunas-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAADwBACdASoUABsAPu1mrU+ppSQiMBgIATAdiUAYIdAAnkxzh2K/ZKfmmDKiBt8OM4AA/vCB1nIzSofcFP1ThVpVPk4kzFLywE5ZD4ZLgAm4a/UXBYVNzuGVxCUR6sPfI2T8Idg/4LTpZJ3E28BXL2EoF6wxQeXZzwJ14kGvwHxIh8GIZhKdV/IlRo/tbZKC9kJAK0I3VECJGYbaAAA=",
+      "source": "https://images.unsplash.com/photo-1530610476181-d83430b64dcd",
+      "license": "Unsplash License"
+    },
+    "cookie": {
+      "width": 1800,
+      "height": 2250,
+      "variants": {
+        "480": "/demo/moka-studio/img/cookie-480.webp",
+        "960": "/demo/moka-studio/img/cookie-960.webp",
+        "1600": "/demo/moka-studio/img/cookie-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwBQCdASoUABkAPu1qrE+ppiQiMBgIATAdiWQAygA0b9ofVDlz49beQy9XEKTQlrJKAAD+9B0Glj2uUS/GKUhc1nf4KGFwC5++tvwA0579QTq+Sngg9+vr46JblmzJpONY/hgUim/xqGwsZumLNjZg9lh1AAAA",
+      "source": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35",
+      "license": "Unsplash License"
+    },
+    "cookie-2": {
+      "width": 1800,
+      "height": 2251,
+      "variants": {
+        "480": "/demo/moka-studio/img/cookie-2-480.webp",
+        "960": "/demo/moka-studio/img/cookie-2-960.webp",
+        "1600": "/demo/moka-studio/img/cookie-2-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAADQBQCdASoUABkAPu1qrVEppaQiqAqpMB2JQBYj3HAf9Y4kAKs7ZV3/tu6j5qaAaIkJdAbd6wAAAP7W/wfJtI0CCY7lnyN+AGQeUdlMc38l6NdgDq27TwUMYjJKJ65Huci9Y+3mMMSrppKD5K4e1KDIGL7oG5DvGuETGuA5HY0zGs2xpKMUgLskJpLDivKWgtblf60GdFJ6TWSHkvnqKIWZm4ijno9dmGjEFDm/PHoAAA==",
+      "source": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e",
+      "license": "Unsplash License"
+    },
+    "brownie": {
+      "width": 1800,
+      "height": 2700,
+      "variants": {
+        "480": "/demo/moka-studio/img/brownie-480.webp",
+        "960": "/demo/moka-studio/img/brownie-960.webp",
+        "1600": "/demo/moka-studio/img/brownie-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAADQBQCdASoUAB4APu1oq08ppiOiMBgIATAdiWUAxn98ATanWqLWbkB7xRkXPygpzPySjzkQv3EAAP55OiFRmBxIwtTnS+xu+NwUmqf6j6t07ca2DOT0M+kOo9ybymugd5ZQXMLrOlmtXTuF+XVelXRBZH4bgDs2B6aOucyWv5ufrnJJsaSU9L8u1Q7maHF77lRPYBv4KVAAAA==",
+      "source": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c",
+      "license": "Unsplash License"
+    },
+    "torta-chocolate": {
+      "width": 1800,
+      "height": 1324,
+      "variants": {
+        "480": "/demo/moka-studio/img/torta-chocolate-480.webp",
+        "960": "/demo/moka-studio/img/torta-chocolate-960.webp",
+        "1600": "/demo/moka-studio/img/torta-chocolate-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwBACdASoUAA8APu1iqk2ppaQiMAgBMB2JQBOmUABWbfVMB2bcG5RVdYAA/sP5Pwa9lfjUimqc/71WDicj9YXAmMA9vZ4mr/qBtfEqaLxKULimd1kN2WvAAAA=",
+      "source": "https://images.unsplash.com/photo-1578985545062-69928b1d9587",
+      "license": "Unsplash License"
+    },
+    "selva-negra": {
+      "width": 1800,
+      "height": 2077,
+      "variants": {
+        "480": "/demo/moka-studio/img/selva-negra-480.webp",
+        "960": "/demo/moka-studio/img/selva-negra-960.webp",
+        "1600": "/demo/moka-studio/img/selva-negra-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACwBACdASoUABcAPu1mq04ppaQiMAgBMB2JQBb3BDWMUHllv6ff3p5jHBAuz6uwAP7DUcA5Ekgj+TUR6GKuLgb3Ch7RBvMIulZxp72c8qP/Yc/hQDBpCUo1fP49XbTT8tHojwKYcso9aU4NNONPpYEpTqOIAA==",
+      "source": "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62",
+      "license": "Unsplash License"
+    },
+    "cheesecake": {
+      "width": 1800,
+      "height": 1200,
+      "variants": {
+        "480": "/demo/moka-studio/img/cheesecake-480.webp",
+        "960": "/demo/moka-studio/img/cheesecake-960.webp",
+        "1600": "/demo/moka-studio/img/cheesecake-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAwCdASoUAA0APu1iqk4ppaQiMAgBMB2JYwCdMoADKO5y57TJQIAA/qwaW+jmKPzp7Y/horpq3AHnayYTAIFaWfl8/1fC7JrrRaxafxpxAAAA",
+      "source": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad",
+      "license": "Unsplash License"
+    },
+    "tiramisu": {
+      "width": 1800,
+      "height": 2700,
+      "variants": {
+        "480": "/demo/moka-studio/img/tiramisu-480.webp",
+        "960": "/demo/moka-studio/img/tiramisu-960.webp",
+        "1600": "/demo/moka-studio/img/tiramisu-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACwBACdASoUAB4APu1kqk4ppaQiMAgBMB2JYwC2yCHKInvLe186LNDvzNoGtsOAAP6urEWYhHFYBjhot+6DQ6eRA2KPiID9744ctwSrajnFOg76Ybuu/tk/u51v2+8OADjbel506X0JIfNXLiq9cF+Ln6wN0BNyfn9aHjzEhddGeKYPLAAAAA==",
+      "source": "https://images.unsplash.com/photo-1571115177098-24ec42ed204d",
+      "license": "Unsplash License"
+    },
+    "fraisier": {
+      "width": 1800,
+      "height": 1247,
+      "variants": {
+        "480": "/demo/moka-studio/img/fraisier-480.webp",
+        "960": "/demo/moka-studio/img/fraisier-960.webp",
+        "1600": "/demo/moka-studio/img/fraisier-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAwCdASoUAA4APu1orU2ppqSiMAgBMB2JagAAW+/TFqTfS/E8Z6mAAP7qhPFUj17Pd2lROrNdOZ7+0574XYB+KDAIMvfkJ9J9sUMXbO6ZkMR7TM2ibdceJItM2EZpTwAAAA==",
+      "source": "https://images.unsplash.com/photo-1611293388250-580b08c4a145",
+      "license": "Unsplash License"
+    },
+    "frambuesa": {
+      "width": 1800,
+      "height": 2250,
+      "variants": {
+        "480": "/demo/moka-studio/img/frambuesa-480.webp",
+        "960": "/demo/moka-studio/img/frambuesa-960.webp",
+        "1600": "/demo/moka-studio/img/frambuesa-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBQCdASoUABkAPu1qrlCppaQiqAqpMB2JQBbdJAArlMmm6xp8jZ1gcOj4PqYUZvQgAP7p40x0QBxQSjgXh3iayuMQK6CJUcNQxWEr9q/jGuILerHkq9LUdUy9231Od5XZbr57MgCbODrdvKAmqZN6G/KhvQGBcWHlnw0DSfNJoMsET4MDnPOsHwM/qGULAAA=",
+      "source": "https://images.unsplash.com/photo-1565958011703-44f9829ba187",
+      "license": "Unsplash License"
+    },
+    "benedictinos": {
+      "width": 1800,
+      "height": 2700,
+      "variants": {
+        "480": "/demo/moka-studio/img/benedictinos-480.webp",
+        "960": "/demo/moka-studio/img/benedictinos-960.webp",
+        "1600": "/demo/moka-studio/img/benedictinos-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAAAwBQCdASoUAB4APu1iqE2ppaOiMAgBMB2JaAC+aTuCKfiZrdQ8K1OVuc6nnygmplmRUAD+8W1aGlsaWSaPVXGlnWEw3i+CduLcJDxxy3VKGrQqhZQNwtmt+f0bjk17hPjDVD0tVEd2pj7qsDUMm9cRnIcNwTVqd/sEXVW2CAZ2538PBqjFKIsbvCRCUR9OBxTE87THWFzCrGb3j4rqtyAAAAA=",
+      "source": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7",
+      "license": "Unsplash License"
+    },
+    "tostada-palta": {
+      "width": 1800,
+      "height": 1198,
+      "variants": {
+        "480": "/demo/moka-studio/img/tostada-palta-480.webp",
+        "960": "/demo/moka-studio/img/tostada-palta-960.webp",
+        "1600": "/demo/moka-studio/img/tostada-palta-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAwCdASoUAA0APu1kqU2ppaQiMAgBMB2JYgAAW+uXIAA7xQPnMwAA/u/Dbs0Nht1deyxU/fQD+CfxKmFd1Fnk3eHAas0OwhSToJA9gr3F5hwA",
+      "source": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d",
+      "license": "Unsplash License"
+    },
+    "pancakes": {
+      "width": 1800,
+      "height": 2175,
+      "variants": {
+        "480": "/demo/moka-studio/img/pancakes-480.webp",
+        "960": "/demo/moka-studio/img/pancakes-960.webp",
+        "1600": "/demo/moka-studio/img/pancakes-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACwBACdASoUABgAPu1kqU2ppaOiMAgBMB2JQBYj0JbpAa/qYo/SrWvJ/DaBC3wAAP7L7EKbz8kgNXvLelyW6jKlulqZx6jlu/ufFKdtPFRmjZaM6Bu41nWTCDtC7NLdadheJS6FTHRBfbQVlGu/RK3YAAA=",
+      "source": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445",
+      "license": "Unsplash License"
+    },
+    "french-toast": {
+      "width": 1800,
+      "height": 2327,
+      "variants": {
+        "480": "/demo/moka-studio/img/french-toast-480.webp",
+        "960": "/demo/moka-studio/img/french-toast-960.webp",
+        "1600": "/demo/moka-studio/img/french-toast-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABwBQCdASoUABoAPu1qqFCppaOiqA1RMB2JaAC2yBI02pv0/Jfk+VQaiJifHaCOKoaNUPQAAP7N+Sbuw02XMfUah/L4qrrY2P8/7TvWoDnnX55ZjHloOSHKDLVq2shN9u7XvRDYhDZU1cewk/wolDwGKJ33jaZUMzuyz3MlGg99tXssNsdL90Tld8yORn/HyrBUAA==",
+      "source": "https://images.unsplash.com/photo-1484723091739-30a097e8f929",
+      "license": "Unsplash License"
+    },
+    "bowl-huevos": {
+      "width": 1800,
+      "height": 2552,
+      "variants": {
+        "480": "/demo/moka-studio/img/bowl-huevos-480.webp",
+        "960": "/demo/moka-studio/img/bowl-huevos-960.webp",
+        "1600": "/demo/moka-studio/img/bowl-huevos-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABwBQCdASoUABwAPu1qq08ppiOiMBgIATAdiWQAqPQQr6G5/51KFfwF9dvrfFBjq63f4juAAP7sw1J0WetZqHr31ruylVp5mNhSknhPwHUQWjYhmkgPvkCA8nW19zKVv/CQg1TRzhEWVkIuBOkI9HnzbA63ojUSX2PXpwhcRZwIIayR2JP73jISERg25XdsfvgOt6+wAAA=",
+      "source": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543",
+      "license": "Unsplash License"
+    },
+    "brunch-compartir": {
+      "width": 1800,
+      "height": 1200,
+      "variants": {
+        "480": "/demo/moka-studio/img/brunch-compartir-480.webp",
+        "960": "/demo/moka-studio/img/brunch-compartir-960.webp",
+        "1600": "/demo/moka-studio/img/brunch-compartir-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAwCdASoUAA0APu1iqU2ppaQiMAgBMB2JZACdMoR3Ff/gEU4o/k+QAM4pEwWyrNEmuaeCWKvtMFR4+B55tCGPfnhLpbtfDkBe+Unk4KxakrudYQfBk7PNjG5gvWg4c3CJNf/w7k0fu4nyAAA=",
+      "source": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0",
+      "license": "Unsplash License"
+    },
+    "tostado": {
+      "width": 1800,
+      "height": 1196,
+      "variants": {
+        "480": "/demo/moka-studio/img/tostado-480.webp",
+        "960": "/demo/moka-studio/img/tostado-960.webp",
+        "1600": "/demo/moka-studio/img/tostado-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwBACdASoUAA0APu1iqU2ppaOiMAgBMB2JagCdL1yBVmj9ET+bK036MIAA/u6hmF/rIlo2euwNQLik/USQ4UDqzQCpx6ETjkqZNQc625YAcnb6z2N+hKZXYwUV/5aCJAuofw8eAAA=",
+      "source": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af",
+      "license": "Unsplash License"
+    },
+    "baguette": {
+      "width": 1800,
+      "height": 1200,
+      "variants": {
+        "480": "/demo/moka-studio/img/baguette-480.webp",
+        "960": "/demo/moka-studio/img/baguette-960.webp",
+        "1600": "/demo/moka-studio/img/baguette-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBACdASoUAA0APu1iqU2ppaOiMAgBMB2JaACdMoR3ACXW+TRbjwL/0AD9TIIqC8qrepAlMHkljNMtra/Djy+YJ0eUhTxDSbKQtqzxXLgfuQdOKJQCapqdlSsvn62rMJj5gSsSKAA=",
+      "source": "https://images.unsplash.com/photo-1509722747041-616f39b57569",
+      "license": "Unsplash License"
+    },
+    "club": {
+      "width": 1800,
+      "height": 1440,
+      "variants": {
+        "480": "/demo/moka-studio/img/club-480.webp",
+        "960": "/demo/moka-studio/img/club-960.webp",
+        "1600": "/demo/moka-studio/img/club-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwBACdASoUABAAPu1iqU2ppaQiMAgBMB2JagC7MoADTq784jTrtV2w+fAA/u+1/m4Amd4ioWVjQ6HIFqnkTXeHYnNtKDkz8FwAuEx7Lg9jhXhBjtGiAAAA",
+      "source": "https://images.unsplash.com/photo-1553909489-cd47e0907980",
+      "license": "Unsplash License"
+    },
+    "merienda-dos": {
+      "width": 1800,
+      "height": 1200,
+      "variants": {
+        "480": "/demo/moka-studio/img/merienda-dos-480.webp",
+        "960": "/demo/moka-studio/img/merienda-dos-960.webp",
+        "1600": "/demo/moka-studio/img/merienda-dos-1600.webp"
+      },
+      "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAwCdASoUAA0APu1kqU2ppaOiMAgBMB2JQBOgAqmtof5hyrfOZ/wAAP2bDpLSO+saurTBnLKkJzAhEmrJZActO8DhYE63MMnrmWjn9n9BSFQ7ay7jlzAeLn5nUh3XsoAAAA==",
+      "source": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+      "license": "Unsplash License"
+    }
+  },
+  "videos": {
+    "hero": {
+      "src": "/demo/moka-studio/video/hero.mp4",
+      "poster": "/demo/moka-studio/video/hero-poster.webp",
+      "bytes": 593276,
+      "durationSeconds": 8,
+      "source": "https://mixkit.co (video 41856)",
+      "license": "Mixkit Free License"
+    },
+    "cappuccino": {
+      "src": "/demo/moka-studio/video/cappuccino.mp4",
+      "poster": "/demo/moka-studio/video/cappuccino-poster.webp",
+      "bytes": 228548,
+      "durationSeconds": 10,
+      "source": "https://mixkit.co (video 41858)",
+      "license": "Mixkit Free License"
+    },
+    "espresso": {
+      "src": "/demo/moka-studio/video/espresso.mp4",
+      "poster": "/demo/moka-studio/video/espresso-poster.webp",
+      "bytes": 329172,
+      "durationSeconds": 10,
+      "source": "https://mixkit.co (video 3575)",
+      "license": "Mixkit Free License"
+    },
+    "filtrado": {
+      "src": "/demo/moka-studio/video/filtrado.mp4",
+      "poster": "/demo/moka-studio/video/filtrado-poster.webp",
+      "bytes": 270654,
+      "durationSeconds": 12,
+      "source": "https://mixkit.co (video 816)",
+      "license": "Mixkit Free License"
+    },
+    "iced-latte": {
+      "src": "/demo/moka-studio/video/iced-latte.mp4",
+      "poster": "/demo/moka-studio/video/iced-latte-poster.webp",
+      "bytes": 145557,
+      "durationSeconds": 12,
+      "source": "https://mixkit.co (video 796)",
+      "license": "Mixkit Free License"
+    },
+    "tiramisu": {
+      "src": "/demo/moka-studio/video/tiramisu.mp4",
+      "poster": "/demo/moka-studio/video/tiramisu-poster.webp",
+      "bytes": 329889,
+      "durationSeconds": 10,
+      "source": "https://mixkit.co (video 41120)",
+      "license": "Mixkit Free License"
+    },
+    "promo-cafe-torta": {
+      "src": "/demo/moka-studio/video/promo-cafe-torta.mp4",
+      "poster": "/demo/moka-studio/video/promo-cafe-torta-poster.webp",
+      "bytes": 332040,
+      "durationSeconds": 10,
+      "source": "https://mixkit.co (video 44954)",
+      "license": "Mixkit Free License"
+    }
+  }
+}

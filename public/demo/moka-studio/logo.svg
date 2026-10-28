@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Moka Studio">
+  <circle cx="120" cy="120" r="116" fill="#1E1611"/>
+  <circle cx="120" cy="120" r="104" fill="none" stroke="#C99A6B" stroke-width="1.5"/>
+  <defs>
+    <path id="arc-top" d="M 42 120 A 78 78 0 0 1 198 120"/>
+    <path id="arc-bottom" d="M 34 120 A 86 86 0 0 0 206 120"/>
+  </defs>
+  <text font-family="Georgia, serif" font-size="15" letter-spacing="6" fill="#F3ECE2">
+    <textPath href="#arc-top" startOffset="50%" text-anchor="middle">MOKA STUDIO</textPath>
+  </text>
+  <text font-family="Georgia, serif" font-size="11" letter-spacing="5" fill="#C99A6B">
+    <textPath href="#arc-bottom" startOffset="50%" text-anchor="middle">CAFÉ · PASTELERÍA · BRUNCH</textPath>
+  </text>
+  <!-- Grano de café estilizado formando una M -->
+  <g transform="translate(120 128)">
+    <ellipse rx="34" ry="44" fill="#C99A6B" transform="rotate(-28)"/>
+    <path d="M -16 -34 C 4 -16, -14 10, 10 34" fill="none" stroke="#1E1611" stroke-width="6" stroke-linecap="round" transform="rotate(-28)"/>
+  </g>
+  <text x="120" y="78" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#C99A6B" letter-spacing="3">EST · 2026</text>
+</svg>

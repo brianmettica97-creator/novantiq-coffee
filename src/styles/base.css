@@ -1,0 +1,6 @@
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; scroll-behavior: auto; }
+body { margin: 0; background: #f3ece2; color: #1e1611; font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; }
+img, video { max-width: 100%; }
+button { -webkit-tap-highlight-color: transparent; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
